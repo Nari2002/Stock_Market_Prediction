@@ -5,6 +5,7 @@
     <li>pandas</li>
     <li>sklearn</li>
     <li>numpy</li>
+    <li>plotpy</li>
     <li>yfinance(i taken yahoo finance to predict live stocks)</li>
 </ul>
 <img src="https://bharatintern.live/images/logo3.png">
